@@ -3,18 +3,13 @@ import java.util.Scanner;
 
 
 /**
- * CET - CS Academic Level 3
- * <br>Declaration: I declare that this is my own original work and is free from Plagiarism
- * <br>Student Name: Younes Boutaleb
- * <br>Student Number: 041019068 
+ * CET - CS Academic Level 3 
  * <br>Assignment number: Assignment 3
  * <br>Date: 8/1/2021
  * <br>purpose of class: This class creates a menu of actions 
  * <br>then calls the appropriate method from the dictionary class to accomplish the chosen action 
  * <br>Section #: 303
  * <br>Course: CST8130 - Data Structures
- * <br>Professor: James Mwangi PhD.
- * @author Younes Boutaleb.
  * @version 1.0
  * 
  */
