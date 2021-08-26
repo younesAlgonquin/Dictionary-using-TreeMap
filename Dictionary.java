@@ -8,17 +8,12 @@ import java.util.TreeMap;
 
 /**
  * CET - CS Academic Level 3
- * <br>Declaration: I declare that this is my own original work and is free from Plagiarism
- * <br>Student Name: Younes Boutaleb
- * <br>Student Number: 041019068 
  * <br>Assignment number: Assignment 3
  * <br>Date: 8/1/2021
- * <br>purpose of class: This class builds a tree ìdictionaryî of words
+ * <br>purpose of class: This class builds a tree ‚Äúdictionary‚Äù of words
  * <br>that were found in a piece of text and keep track of how many occurrences there were of each of the words.
  * <br>Section #: 303
  * <br>Course: CST8130 - Data Structures
- * <br>Professor: James Mwangi PhD.
- * @author Younes Boutaleb.
  * @version 1.0
  * 
  */
